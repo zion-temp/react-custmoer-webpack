@@ -1,0 +1,2 @@
+(self.webpackChunkreact_custmoer_webpack=self.webpackChunkreact_custmoer_webpack||[]).push([[6985],{6985:(e,c,r)=>{"use strict";r.d(c,{hN:()=>u.h,SZ:()=>k}),r(9991);var a=r(1645),s=r(6158),t=(r(4202),r(8672));r(666),r(4947);var u=r(3579);function k(e,c){return void 0===c&&(c="observed"),(0,t.S)(e,c)}r(8495),r(7735),(0,s.z0)(a.m)}}]);
+//# sourceMappingURL=6985.fa09c62c09.js.map
